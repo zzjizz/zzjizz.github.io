@@ -1,9 +1,0 @@
-User-agent:  Baiduspider
-Allow:  /article
-Allow:  /oshtml
-Allow:  /wenzhang
-Disallow:  /product/
-Disallow:  /
-
-User-Agent:  *
-Disallow:  /
